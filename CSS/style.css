@@ -19,7 +19,7 @@ body{
 }
 .img {
     margin: 0px;
-    background-image: url(/img/bg.jpg);
+    background-image: url(https://dyrdasov.github.io/layout-/img/bg.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 5% 50%;
@@ -61,7 +61,7 @@ h2 {
     cursor: pointer;
     font-size: 15px;
     color: #fff;
-    background-image: url(/img/facebook.svg);
+    background-image: url(https://dyrdasov.github.io/layout-/img/facebook.svg);
     background-size: 20px 35px;
     background-repeat: no-repeat;
     background-position: 5% 50%;
@@ -74,7 +74,7 @@ h2 {
     cursor: pointer;
     font-size: 15px;
     color: #fff;
-    background-image: url(/img/linkedin.svg);
+    background-image: url(https://dyrdasov.github.io/layout-/img/linkedin.svg);
     background-size: 20px 35px;
     background-repeat: no-repeat;
     background-position: 7% 50%;
